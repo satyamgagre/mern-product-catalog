@@ -19,14 +19,19 @@ app.use((req, res, next) => {
   next();
 });
 
-// Connect DB
-connectDB();
-
 // Routes
 app.use("/api/notes", notesRoutes);
 
-// Server
+// Connect DB and start server
 const PORT = process.env.PORT || 5001;
-app.listen(PORT, () => {
-  console.log(`Server started on port ${PORT}`);
-});
+
+connectDB()
+  .then(() => {
+    app.listen(PORT, () => {
+      console.log(`✅ Server started on port ${PORT}`);
+    });
+  })
+  .catch((error) => {
+    console.error("❌ Database connection failed:", error.message);
+    process.exit(1); // Stop app if DB fails
+  });
