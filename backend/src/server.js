@@ -1,9 +1,11 @@
 import "./config/env.js"; 
 
 import express from "express";
+import cors from "cors";
 import notesRoutes from "./routes/notesroutes.js";
 import { connectDB } from "./config/db.js";
 import rateLimiter from "./middleware/rateLimiter.js";
+
 
 console.log("UPSTASH URL in server:", process.env.UPSTASH_REDIS_REST_URL);
 console.log("MONGO_URI =", process.env.MONGO_URI);
@@ -11,6 +13,10 @@ console.log("MONGO_URI =", process.env.MONGO_URI);
 const app = express();
 
 // Middlewares
+app.use(cors({
+  origin: "http://localhost:5173", // Adjust as needed for your frontend
+}));
+
 app.use(express.json());
 app.use(rateLimiter);
 
