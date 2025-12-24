@@ -2,7 +2,7 @@ import "./config/env.js";
 
 import express from "express";
 import cors from "cors";
-import notesRoutes from "./routes/notesroutes.js";
+import notesRoutes from "./routes/notesRoutes.js";
 import { connectDB } from "./config/db.js";
 import rateLimiter from "./middleware/rateLimiter.js";
 import path from "path";
