@@ -252,10 +252,6 @@ This project covers:
 
 <div align="center">
 
-### ⭐ Star this repository if you found it helpful!
-
-[![GitHub Stars](https://img.shields.io/github/stars/satyamgagre/thoughtpad?style=social)](https://github.com/satyamgagre/thoughtpad)
-
 **Made with 🤍 by [SA8YA](https://github.com/satyamgagre)**
 
 </div>
