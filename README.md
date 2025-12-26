@@ -11,16 +11,11 @@
 
 ## 🌟 Highlights
 
-- 🧱 **Full-Stack Application** Built with the MERN Stack (MongoDB, Express, React, Node.js)
-- ✨ **Complete CRUD Operations** - Create, Read, Update, and Delete Notes Seamlessly
-- 📝 **Rich Note Management** - Add Titles, Descriptions, and Organize Your Thoughts
-- 🛠️ **RESTful API** - Professionally Structured Backend with Proper HTTP Methods
-- ⚙️ **Rate Limiting** - Implemented with Upstash Redis for Production-Ready Performance
-- 🎨 **Modern UI/UX** - Clean, Intuitive Interface for Effortless Note Taking
-- 📱 **Fully Responsive** - Optimized for Desktop, Tablet, and Mobile Devices
-- 🔒 **Secure & Scalable** - Built with Best Practices and Industry Standards
-- 🚀 **Production Ready** - Deployment Guide Included
-- 📚 **Beginner Friendly** - Well-Documented Code and Setup Instructions
+- 🧱 Built with MERN Stack (MongoDB, Express, React, Node.js)
+- 📝 CRUD Notes App – Create, Read, Update & Delete notes
+- ⚙️ REST API with clean backend structure
+- 🎨 Modern & Responsive UI
+- 🚀 Production-ready with clear setup instructions
 
 ---
 
