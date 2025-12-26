@@ -1,13 +1,11 @@
 <h1 align="center">📝 ThoughtPad ✨</h1>
-<h3 align="center">Your Digital Notebook</h3>
+<parameter name="center">Your Digital Notebook</h3>
 
 <div align="center">
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge)](https://mern-product-catalog-c8ha.onrender.com)
 
 </div>
-
-![ThoughtPad Demo](/frontend/public/screenshot-main.png)
 
 ---
 
@@ -30,17 +28,31 @@
 
 <div align="center">
 
-### Main Dashboard
-![Dashboard View](/frontend/public/screenshot-dashboard.png)
+### 🏠 Homepage
+*View all your notes in an organized dashboard*
 
-### Create Note
-![Create Note](/frontend/public/screenshot-create.png)
+![Homepage View](/frontend/public/ThoughtPad-HomePage.png)
 
-### Edit Note
-![Edit Note](/frontend/public/screenshot-edit.png)
+---
 
-### Responsive Design
-![Mobile View](/frontend/public/screenshot-mobile.png)
+### ➕ Create Note Page
+*Add new notes with title and description*
+
+![Create Note Page](/frontend/public/ThoughtPad-CreatePage.png)
+
+---
+
+### ✏️ Update Note Page
+*Edit and update your existing notes*
+
+![Update Note Page](/frontend/public/ThoughtPad-DetailPage.png)
+
+---
+
+### 📱 Responsive Design
+*Seamless experience across all devices*
+
+![Mobile View](/frontend/public/ThoughtPad-MobileView.png)
 
 </div>
 
@@ -279,9 +291,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/satyamgagre)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/satyamgagre)
-- Instagram: [yourportfolio.com]("https://instagram.com/satya__gagre")
+- GitHub: [@satyamgagre](https://github.com/satyamgagre)
+- LinkedIn: [Satyam Gagre](https://linkedin.com/in/satyamgagre)
+- Instagram: [@satya__gagre](https://instagram.com/satya__gagre)
 
 ---
 
@@ -297,7 +309,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### ⭐ Star this repository if you found it helpful!
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/thoughtpad?style=social)](https://github.com/yourusername/thoughtpad)
+[![GitHub Stars](https://img.shields.io/github/stars/satyamgagre/thoughtpad?style=social)](https://github.com/satyamgagre/thoughtpad)
 
 **Made with 🤍 by [SA8YA](https://github.com/satyamgagre)**
 
