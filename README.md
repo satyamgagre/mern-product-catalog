@@ -52,7 +52,7 @@
 ### 📱 Responsive Design
 *Seamless experience across all devices*
 
-![Mobile View](/frontend/public/ThoughtPad-MobileView.png)
+![Mobile View](/frontend/public/ThoughtPad-MobileView.jpg)
 
 </div>
 
