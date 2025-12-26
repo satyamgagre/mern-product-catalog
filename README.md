@@ -225,20 +225,6 @@ Built with a mobile-first approach, ThoughtPad works seamlessly across all devic
 
 ---
 
-## 📖 Learning Resources
-
-This project covers:
-
-- ✅ **MERN Stack Development** - Complete full-stack workflow
-- ✅ **RESTful API Design** - HTTP methods and status codes
-- ✅ **MongoDB & Mongoose** - NoSQL database operations
-- ✅ **React Hooks** - useState, useEffect, and custom hooks
-- ✅ **Async JavaScript** - Promises and async/await
-- ✅ **Rate Limiting** - Production-ready API protection
-- ✅ **Environment Variables** - Secure configuration management
-- ✅ **Deployment** - Taking your app live
-
----
 
 ## 👨‍💻 Author
 
